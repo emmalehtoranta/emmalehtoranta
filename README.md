@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Emma
-- 👀 I’m interested in learning python especially for data analysis and artificial intelligence
+- 👀 I’m interested in learning python especially for data analysis and cybersecurity
 - 🌱 I’m currently learning python
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: Even though my first language is Finnish, I'm so fluent in English that I'm quite good at imitating different accents!
