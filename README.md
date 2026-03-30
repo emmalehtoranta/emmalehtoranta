@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @emmalehtoranta
+- 👋 Hi, I’m Emma
 - 👀 I’m interested in learning python especially for data analysis and artificial intelligence
 - 🌱 I’m currently learning python
 - 😄 Pronouns: she/her
