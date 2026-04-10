@@ -10,12 +10,7 @@ Hello there, I'm Emma
 
 ## My TryHackMe Progress
 
-<p align="center">
-  <a href="https://tryhackme.com/p/EmmaCyber">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/EmmaCyber.png" alt="TryHackMe Badge"/>
-  </a>
-</p>
-
+👉 https://tryhackme.com/p/EmmaCyber
 
 <!---
 emmalehtoranta/emmalehtoranta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
