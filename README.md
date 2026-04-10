@@ -1,6 +1,6 @@
-**Hello there, I'm Emma**
+👋**Hello there, I'm Emma**
 
-**Cybersecurity Enthusiast | ICT Engineering Student**
+**ICT Engineering Student | Aspiring SOC analyst**
 
 ## Focus Areas
 
