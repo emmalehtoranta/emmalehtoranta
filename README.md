@@ -1,4 +1,4 @@
-Hello there, I'm Emma
+**Hello there, I'm Emma**
 
 **Cybersecurity Enthusiast | ICT Engineering Student**
 
