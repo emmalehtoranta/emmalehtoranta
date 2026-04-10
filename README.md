@@ -31,7 +31,7 @@
 - Basic troubleshooting
 - Experience in analysing traffic using Wireshark
 
-### Current Projects
+## Current Projects
 - Home server with integrated Elastic Stack
 Raspberry Pi 5, Linux server environment, log management & monitoring
 - Upcoming thesis: Secure enterprise portal prototype
