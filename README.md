@@ -1,6 +1,22 @@
-- 👋 Hello there, I’m Emma
-- 👀 I’m currently learning python mainly for data analysis and cybersecurity
-- ⚡ Fun fact: Even though my first language is Finnish, I'm so fluent in English that I'm quite good at imitating different accents!
+Hello there, I'm Emma
+
+**Cybersecurity Enthusiast | ICT Engineering Student**
+
+## Focus Areas
+
+- Network security and traffic analysis
+- Blue team & defensive security fundamentals
+- Log analysis and monitoring (SIEM)
+
+## My TryHackMe Progress
+
+<p align="center">
+  <a href="https://tryhackme.com/p/EmmaCyber">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/EmmaCyber.png" />
+  </a>
+</p>
+  
+
 
 <!---
 emmalehtoranta/emmalehtoranta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
