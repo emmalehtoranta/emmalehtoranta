@@ -8,9 +8,11 @@ Hello there, I'm Emma
 - Blue team & defensive security fundamentals
 - Log analysis and monitoring (SIEM)
 
-## My TryHackMe Progress
+## TryHackMe 
 
-👉 https://tryhackme.com/p/EmmaCyber
+🔗 https://tryhackme.com/p/EmmaCyber  
+🎯 Focus: Blue Team / SOC skills  
+🧪 Active hands-on learning via labs
 
 <!---
 emmalehtoranta/emmalehtoranta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
