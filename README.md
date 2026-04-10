@@ -12,7 +12,7 @@ Hello there, I'm Emma
 
 <p align="center">
   <a href="https://tryhackme.com/p/EmmaCyber">
-    <img src=" https://tryhackme.com/p/EmmaCyber" alt="TryHackMe Badge"/>
+    <img src="https://tryhackme-badges.s3.amazonaws.com/EmmaCyber.png" alt="TryHackMe Badge"/>
   </a>
 </p>
 
