@@ -33,7 +33,7 @@
 
 ## Current Projects
 - Home server with integrated Elastic Stack
-Raspberry Pi 5, Linux server environment, log management & monitoring
+´Raspberry Pi 5, Linux server environment, log management & monitoring´
 - Upcoming thesis: Secure enterprise portal prototype
 <!---
 emmalehtoranta/emmalehtoranta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
