@@ -1,6 +1,6 @@
 👋**Hello there, I'm Emma**
 
-**ICT Engineering Student | Aspiring SOC analyst**
+**ICT Engineering Student | Cybersecurity Enthusiast**
 
 ## Focus Areas
 
@@ -34,7 +34,7 @@
 ## Current Projects
 - Home server on Raspberry Pi 5:
 PiHole; DNS server, Elastic Stack; log management & monitoring, WireGuard: VPN
-- Upcoming thesis: Secure enterprise portal prototype
+- Ongoing thesis: Design of a Secure Company Portal Prototype
 <!---
 emmalehtoranta/emmalehtoranta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
